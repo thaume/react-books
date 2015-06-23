@@ -1,0 +1,17 @@
+.media {
+  margin:10px;
+}
+.media__body {
+  overflow:hidden;
+  _overflow:visible;
+  zoom:1;
+}
+.media__image {
+  float:left;
+  margin-right: 10px;
+  display:block;
+}
+
+.media h2 {
+  margin-top: 0;
+}
